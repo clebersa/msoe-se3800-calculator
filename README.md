@@ -9,7 +9,7 @@ The purpose of this project is to build a calculator that can perform operations
 * Java JDK 1.8
 * JUnit 4.12 (test tool)
 * Maven 2.2.1 (build tool)
-* JaCoCo 0.7 (JaCoCo Java Code Coverage Library)
+* JaCoCo 0.7 (JaCoCo Java Code Coverage Library. This library is optional, once it is used only to check the code coverage of the project.)
 
 ### Building:
 To build the software, type the folowing command:
