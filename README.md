@@ -24,9 +24,9 @@ java -jar calculator-1.0-SNAPSHOT.jar
 ### Testing:
 To test the project, type the following command:
 ```shell
-mvn clean test
+mvn test
 ```
 You should get an output with some lines provided by Maven. Among these lines should appear a line like the following, indicating that all tests passed:
 ```shell
-Tests run: 53, Failures: 0, Errors: 0, Skipped: 0
+Tests run: 46, Failures: 0, Errors: 0, Skipped: 0
 ```
