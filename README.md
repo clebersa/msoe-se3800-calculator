@@ -7,8 +7,9 @@ The purpose of this project is to build a calculator that can perform operations
 
 ### System Requirements:
 * Java JDK 1.8
-* JUnit 4.12
-* Maven 2.2.1
+* JUnit 4.12 (test tool)
+* Maven 2.2.1 (build tool)
+* JaCoCo 0.7 (JaCoCo Java Code Coverage Library)
 
 ### Building:
 To build the software, type the folowing command:
