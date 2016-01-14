@@ -1,0 +1,5 @@
+# Netbeans files
+nbproject/
+
+# Build directory
+target/
